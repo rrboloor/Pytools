@@ -1,0 +1,7 @@
+www.google.com:80
+www.google.com:443
+localhost:777
+localhost:8888
+localhost
+remotehost
+:
